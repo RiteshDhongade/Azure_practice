@@ -1,0 +1,9 @@
+#Section1
+#section 2
+  11. Start with VM
+  12. Deploying a VM
+  13. Lab - Deploying a Windows VM
+  14. Connecting to an azure windows VM
+  15. Lab - Resizing the VM
+  16. Lab - Installing IIS(Internet Information Services)
+  17. VM sizes
